@@ -3,8 +3,16 @@ Desafio Final Dart - Academia do Flutter
 
 Popular tabelas do MySql com estados e cidades do Brasil consumindo as API do IBGE:
 versões utilizadas dos packages.
+
 mysql1: ^0.19.2
+
 http: ^0.13.4
+
+Flutter: 3.0.2 channel stable 
+
+Dart SDK version: 2.17.5 (stable)
+
+DevTools 2.12.2
 
 
 Links APIs IBGE:
